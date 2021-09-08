@@ -3,4 +3,4 @@ README```sudo apt-get update```
 sudo apt-get install jp2a
 ```
 ```
-jp2a terminal.jpg
+jp2a WIP-6th-anniversary-wallpaper-dark.jpg
