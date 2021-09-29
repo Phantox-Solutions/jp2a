@@ -1,4 +1,4 @@
-README```sudo apt-get update```
+README```sudo apt install rpi-imager```
 ```
 sudo apt-get install jp2a
 ```
