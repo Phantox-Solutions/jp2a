@@ -1,6 +1,6 @@
 README```sudo apt install rpi-imager```
 ```
-sudo apt install rpi-imager
+Y
 ```
 ```
 jp2a WIP-6th-anniversary-wallpaper-dark.jpg
